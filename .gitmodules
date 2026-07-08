@@ -1,9 +1,9 @@
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-strategy-management.git
-[submodule "data/journal"]
-	path = data/journal
-	url = https://github.com/quanttide/quanttide-context-of-strategy-journal.git
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-strategy-management.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-strategy-management.git
