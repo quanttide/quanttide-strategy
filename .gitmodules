@@ -16,3 +16,6 @@
 [submodule "data/report"]
 	path = data/report
 	url = https://github.com/quanttide/quanttide-report-of-strategy-management.git
+[submodule "data/insight"]
+	path = data/insight
+	url = https://github.com/quanttide/quanttide-insight-of-strategy-management.git
