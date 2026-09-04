@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## [Unreleased]
+
+### 新增
+
+- 注册子模块：`data/intention`（战略管理意图，quanttide-intention-of-strategy-management）
+- 注册子模块：`data/roadmap`（战略管理路线图，quanttide-roadmap-of-strategy-management）
+- 注册子模块：`data/brochure`（战略管理宣传册，quanttide-brochure-of-strategy-management）
+- 注册子模块：`data/history`（战略管理历史，quanttide-history-of-strategy-management）
+- 注册子模块：`data/archive`（战略管理归档，quanttide-archive-of-strategy-management）
+- 注册子模块：`docs/bylaw`（战略管理章程，quanttide-bylaw-of-strategy-management）
+- 注册子模块：`docs/handbook`（战略管理工作手册，quanttide-handbook-of-strategy-management）
+- 注册子模块：`docs/specification`（战略管理标准，quanttide-specification-of-strategy-management）
+- 注册子模块：`docs/tutorial`（战略管理教程，quanttide-tutorial-of-strategy-management）
+- 注册子模块：`docs/essay`（战略管理札记，quanttide-essay-of-strategy-management）
+- 注册子模块：`docs/gallery`（战略管理案例集，quanttide-gallery-of-strategy-management）
+
 ## [0.1.0] - 2026-07-08
 
 ### Added
