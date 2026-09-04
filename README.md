@@ -17,6 +17,10 @@ quanttide-strategy 是量潮战略管理领域，涵盖战略规划、战略解�
 
 | 路径 | 说明 |
 |------|------|
+| `apps/qtadmin` | 量潮管理后台——战略管理前台 (git submodule → qtadmin) |
+| `apps/qtcloud-strategy` | 战略云服务 (git submodule → qtcloud-strategy) |
+| `apps/qtstrategy` | 量潮战略中心，战略档案公开展示 (git submodule → qtstrategy) |
+| `packages/quanttide-strategy-toolkit` | 战略管理工具箱 (git submodule → quanttide-strategy-toolkit) |
 | `examples/default` | 战略管理实验室 (git submodule → quanttide-laboratory-of-strategy-management) |
 | `data/context` | 战略管理语境 (git submodule → quanttide-context-of-strategy-management) |
 | `data/journal` | 战略管理工作日志 (git submodule → quanttide-journal-of-strategy-management) |
@@ -35,8 +39,6 @@ quanttide-strategy 是量潮战略管理领域，涵盖战略规划、战略解�
 | `docs/tutorial` | 战略管理教程 (git submodule → quanttide-tutorial-of-strategy-management) |
 | `docs/essay` | 战略管理札记 (git submodule → quanttide-essay-of-strategy-management) |
 | `docs/gallery` | 战略管理案例集 (git submodule → quanttide-gallery-of-strategy-management) |
-
-规划中（暂未挂载）：`apps/`（平台/前台）、`packages/quanttide-strategy-toolkit`（工具箱）。
 
 子模块操作：`git submodule update --init --recursive`；子模块内部改动须先在子模块仓库内提交，再回主仓库更新指针。
 

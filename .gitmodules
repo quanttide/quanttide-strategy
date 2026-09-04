@@ -52,3 +52,15 @@
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-strategy-management.git
+[submodule "apps/qtadmin"]
+	path = apps/qtadmin
+	url = https://github.com/quanttide/qtadmin.git
+[submodule "apps/qtcloud-strategy"]
+	path = apps/qtcloud-strategy
+	url = https://github.com/quanttide/qtcloud-strategy.git
+[submodule "apps/qtstrategy"]
+	path = apps/qtstrategy
+	url = https://github.com/quanttide/qtstrategy.git
+[submodule "packages/quanttide-strategy-toolkit"]
+	path = packages/quanttide-strategy-toolkit
+	url = https://github.com/quanttide/quanttide-strategy-toolkit.git
