@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-strategy-lab`（仓 quanttide-laboratory-of-strategy-management → quanttide-strategy-lab）
+
+
 ### 新增
 
 - 注册子模块：`apps/qtadmin`（量潮管理后台——战略管理前台，qtadmin）
