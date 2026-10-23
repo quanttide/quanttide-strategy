@@ -20,7 +20,7 @@ quanttide-strategy 是量潮战略管理领域，涵盖战略规划、战略解�
 | `apps/qtadmin` | 量潮管理后台——战略管理前台 (git submodule → qtadmin) |
 | `apps/qtcloud-strategy` | 战略云服务 (git submodule → qtcloud-strategy) |
 | `apps/qtstrategy` | 量潮战略中心，战略档案公开展示 (git submodule → qtstrategy) |
-| `packages/quanttide-strategy-toolkit` | 战略管理工具箱 (git submodule → quanttide-strategy-toolkit) |
+| `packages/quanttide-strategy-toolkit` | 战略管理标准库 (git submodule → quanttide-strategy-toolkit) |
 | `examples/quanttide-strategy-lab` | 战略管理实验室 (git submodule → quanttide-strategy-lab) |
 | `data/context` | 战略管理语境 (git submodule → quanttide-context-of-strategy-management) |
 | `data/journal` | 战略管理工作日志 (git submodule → quanttide-journal-of-strategy-management) |
